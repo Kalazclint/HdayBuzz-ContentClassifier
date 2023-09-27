@@ -1,17 +1,17 @@
 ## Table of Contents
-- Introduction
-- Installation & Setup
-- Project Structure
-- Model Architectures
-- Training & Evaluation
-- Issues and Solutions
-- Future Directions
-- Acknowledgment
+- [Introduction](#Introduction)
+- [Installation & Setup](#Installation--Setup)
+- [Project Structure](#Project-Structure)
+- [Model Architectures](#Model--Architectures)
+- [Training & Evaluation](Training--Evaluation)
+- [Issues & Solutions](#Issues--Solutions)
+- [Future Directions](#Future-Directions)
+- [Acknowledgments](#Acknowledgments)
 
 ## Introduction
 HolidayBuzz-ContentClassifier efficiently categorizes social media images into six holiday-related categories using advanced Convolutional Neural Networks (CNNs). Designed for social media platforms, it aids in enhancing user engagement and targeted monetization through intelligent identification and spotlighting of holiday-themed content. With robust and accurate classification, it is a valuable tool for leveraging festive seasons for better user interaction and revenue generation.
 
-## Installation and Setup
+## Installation & Setup
 Clone the Github repository: git clone https://github.com/Kalazclint/HdayBuzz-ContentClassifier.git
 Install the required Python packages: pip install -r requirements.txt
 
@@ -25,7 +25,7 @@ Install the required Python packages: pip install -r requirements.txt
 2. Enhanced CNN Model: A more complex CNN with added layers and batch normalization for better performance.
 3. ResNet: A deep residual network was implemted to further improve classification accuracy
 
-## Training and Evaluation
+## Training & Evaluation
 Models were trained using the specified datasets and evaluated based on their accuracy in classifying test images into the correct categories.
 
 ## Issues & Solutions
